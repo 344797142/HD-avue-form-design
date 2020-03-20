@@ -31,8 +31,8 @@
     "lib"
   ],
   "repository": {
-    "type": "gitee",
-    "url": "https://gitee.com/hdkn/HD-avue-form-design"
+    "type": "github",
+    "url": "https://github.com/344797142/HD-avue-form-design"
   },
   "keywords": [
     "vue",
